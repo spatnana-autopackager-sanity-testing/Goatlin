@@ -6,15 +6,15 @@ developed by Checkmarx Security Research Team to support [Kotlin Secure Coding
 Practices guide][1].
 
 This repository contains both the Android mobile application
-(`packages/clients/android`) and the back-end API server
+(`packages/clients/android`) and the back-end API server      
 (`packages/services/api`).
 
 ## Requirements
 
-To play with the mobile application you should have the following tools:
+To play with the mobile application you should have the following tools:  
 
 * [Android Studio][2] to run the mobile application on a Virtual Device;
-* [Docker][3] and [Docker Compose][4] to build and run the back-end API server.
+* [Docker][3] and [Docker Compose][4] to build and run the back-end API server.   
 
 ## How to start
 
