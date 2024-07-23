@@ -11,7 +11,7 @@ This repository contains both the Android mobile application
 
 ## Requirements
 
-To play with the mobile application you should have the following tools:
+To play with the mobile application you should have the following tools:  
 
 * [Android Studio][2] to run the mobile application on a Virtual Device;
 * [Docker][3] and [Docker Compose][4] to build and run the back-end API server.   
